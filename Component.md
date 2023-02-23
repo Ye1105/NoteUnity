@@ -2,7 +2,7 @@
  * @Author: 15868707168@163.com 15868707168@163.com
  * @Date: 2023-02-17 11:16:43
  * @LastEditors: 15868707168@163.com 15868707168@163.com
- * @LastEditTime: 2023-02-20 11:42:04
+ * @LastEditTime: 2023-02-23 15:37:41
  * @FilePath: \UnityStudyNote\Component.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -18,6 +18,8 @@ w
 
 
 #####  Physics  2D  碰撞体
+
++ Box Colider 2D 
 
 
 #####  Animator
